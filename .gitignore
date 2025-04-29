@@ -1,0 +1,10 @@
+__pycache__/
+.env
+myenv/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+output.csv
+all_new_links.xlsx
+filtered_new_links.xlsx
